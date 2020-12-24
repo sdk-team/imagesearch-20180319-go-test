@@ -1,4 +1,4 @@
-module imagesearch-20180319/v2
+module github.com/alibabacloud-go/imagesearch-20180319/v3
 
 go 1.15
 
